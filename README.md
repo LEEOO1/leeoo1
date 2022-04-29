@@ -8,5 +8,5 @@
   <img src='https://media0.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif' width='290'>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeoo1&layout=compact&langs_count=10&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeoo1&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Status](https://github-readme-stats.vercel.app/api?username=leeoo1&show_icons=true&theme=radical)
