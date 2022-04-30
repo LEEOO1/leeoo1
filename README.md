@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/LEEOO1"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, welcome to my GitHub!</h1></a>
+<h1 align="center"><a href="https://github.com/LEEOO1"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a> Hi there, welcome to my GitHub!</h1>
 
 <p align='center'>
   <a href="https://github.com/LEEOO1"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=0085E9&center=true&width=600&lines=Hi+i'm+Leo.%231154%2C+16+years+old+Developer+from+Italy;Known+languages%3A;Lua%2C+Javascript%2C+Java%2C+C%2C+C%2B%2B%2C+Php%2C+Html%2C+Css%2C+Scss;Problem+Solving+"></a>
