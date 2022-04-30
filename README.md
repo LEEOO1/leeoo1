@@ -23,6 +23,5 @@
 <p align="center">
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/7oSkaaa"><img alt="Leeoo1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leeoo1&custom_title=Leeoo1's%20Contribution%20Graph&theme=react-dark" />
-  </a>
+  <img alt="Leeoo1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=leeoo1&custom_title=Leeoo1's%20Contribution%20Graph&theme=react-dark" />
 </p>
